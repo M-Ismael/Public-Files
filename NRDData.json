@@ -1,0 +1,224 @@
+{
+  "domains": [
+    {
+      "domainId": 1031,
+      "name": "Googles.com",
+      "ip": "143.231.23.41",
+      "type": "domain",
+      "lat": 24.533843,
+      "long": -77.976308,
+      "uniqueHits": 3017,
+      "totalHits": 130413
+    },
+    {
+      "name": "FakeSite.com",
+      "ip": "143.231.23.41",
+      "type": "domain",
+      "domainId": 2391,
+      "lat": 11.93177,
+      "long": 29.28828,
+      "uniqueHits": 3347,
+      "totalHits": 482841
+    },
+    {
+      "name": "YouTubes.com",
+      "type": "domain",
+      "domainId": 3193,
+      "lat": -24.96157,
+      "long": -51.54865,
+      "uniqueHits": 1247,
+      "totalHits": 138813
+    },
+    {
+      "name": "Amazen.com",
+      "ip": "143.231.23.41",
+      "type": "domain",
+      "domainId": 4731,
+      "lat": -55.26476,
+      "long": -64.9775,
+      "uniqueHits": 31731,
+      "totalHits": 1142312
+    },
+    {
+      "ip": "143.231.23.41",
+      "type": "domain",
+      "domainId": 5823,
+      "lat": 20.67584,
+      "long": 91.56175,
+      "uniqueHits": 131,
+      "totalHits": 92383
+    },
+    {
+      "name": "HDMovies.com",
+      "ip": "143.231.23.41",
+      "type": "domain",
+      "domainId": 6153,
+      "lat": -26.80836,
+      "long": 144.70443,
+      "uniqueHits": 6483,
+      "totalHits": 74823
+    },
+    {
+      "name": "FreeBooks.com",
+      "ip": "143.231.23.41",
+      "type": "domain",
+      "domainId": 7112,
+      "uniqueHits": 2638,
+      "totalHits": 290130
+    },
+    {
+      "name": "RentCars.com",
+      "ip": "145.131.123.141",
+      "type": "domain",
+      "domainId": 7312,
+      "uniqueHits": 3938,
+      "totalHits": 590130
+    },
+    {
+      "name": "Boats.com",
+      "ip": "43.21.3.241",
+      "type": "domain",
+      "domainId": 7109,
+      "uniqueHits": 638,
+      "totalHits": 13130
+    },
+    {
+      "name": "FreeApps.com",
+      "ip": "13.23.123.41",
+      "type": "domain",
+      "domainId": 7912,
+      "uniqueHits": 9638,
+      "totalHits": 930130
+    },
+    {
+      "name": "FreeSoftware.com",
+      "ip": "141.131.43.141",
+      "type": "domain",
+      "domainId": 7197,
+      "uniqueHits": 438,
+      "totalHits": 2130
+    },
+    {
+      "name": "Glass.net",
+      "ip": "143.231.23.41",
+      "type": "domain",
+      "domainId": 8492,
+      "lat": 13.67052,
+      "long": -6.90088,
+      "uniqueHits": 1912,
+      "totalHits": 34100
+    }
+  ],
+  "users": [
+    {
+      "name": "Mike",
+      "ip": "143.231.23.41",
+      "type": "user",
+      "userId": 13984,
+      "lat": 6.12982,
+      "long": 119.33066
+    },
+    {
+      "name": "John",
+      "ip": "143.231.23.41",
+      "type": "user",
+      "userId": 28314,
+      "lat": 15.18926,
+      "long": -84.74723
+    },
+    {
+      "name": "Jamie",
+      "ip": "143.231.23.41",
+      "type": "user",
+      "userId": 31341,
+      "lat": 1.87142,
+      "long": 124.84031
+    },
+    {
+      "name": "Ronald",
+      "ip": "143.231.23.41",
+      "type": "user",
+      "userId": 41212,
+      "lat": 32.50349,
+      "long": 124.69698
+    },
+    {
+      "name": "Paul",
+      "ip": "143.231.23.41",
+      "type": "user",
+      "userId": 55113,
+      "lat": 8.16813,
+      "long": -8.01092
+    },
+    {
+      "name": "Chris",
+      "ip": "143.231.23.41",
+      "type": "user",
+      "userId": 57714,
+      "lat": 51.31768,
+      "long": 7.41767
+    },
+    {
+      "name": "Sam",
+      "ip": "143.231.23.41",
+      "type": "user",
+      "userId": 61215,
+      "lat": 12.83851,
+      "long": -71.59549
+    },
+    {
+      "name": "Rami",
+      "ip": "143.231.23.41",
+      "type": "user",
+      "userId": 79416,
+      "lat": 40.64763,
+      "long": -106.13919
+    },
+    {
+      "name": "Jessica",
+      "ip": "143.231.23.41",
+      "type": "user",
+      "userId": 88317,
+      "lat": 0.10122,
+      "long": -59.89741
+    },
+    {
+      "name": "Jessi",
+      "ip": "143.231.23.41",
+      "type": "user",
+      "userId": 91218,
+      "lat": 38.12595,
+      "long": 36.14575
+    },
+    {
+      "name": "James",
+      "ip": "143.231.23.41",
+      "type": "user",
+      "userId": 10019,
+      "lat": -3.73038,
+      "long": -75.54402
+    },
+    {
+      "name": "Mark",
+      "ip": "143.231.23.41",
+      "type": "user",
+      "userId": 11020,
+      "lat": -2.5815,
+      "long": -48.8708
+    }
+  ],
+  "links": [
+    {
+      "source": 13984,
+      "target": 1031
+    },
+    {
+      "source": 28314,
+      "target": 2391
+    },
+    {
+      "source": 31341,
+      "target": 3193
+    }
+  ]
+}
